@@ -1,0 +1,21 @@
+{
+  "name": "com.scrag0.unity-package-assistant",
+  "version": "1.0.0",
+  "displayName": "Unity Package Assistant",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
+    "com.unity.sharp-zip-lib": "1.3.9",
+    "com.cysharp.unitask": "2.5.10"
+  },
+  "keywords": [
+    "unity",
+    "package",
+    "assistant"
+  ],
+  "author": {
+    "name": "Bohdan Yavhusishyn",
+    "url": "https://github.com/Scrag0"
+  },
+  "description": "A Unity Editor tool for package publishing and deletion on personal Verdaccio server"
+}

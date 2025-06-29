@@ -1,0 +1,23 @@
+{
+    "name": "Scrag0.UnityPackageAssistant.Editor",
+    "rootNamespace": "UnityPackageAssistant",
+    "references": [
+        "UniTask"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll",
+        "Unity.SharpZipLib.dll",
+        "Tomlyn.dll",
+        "NuGet.Versioning.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
